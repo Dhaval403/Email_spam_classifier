@@ -1,0 +1,10 @@
+      email spam classifier
+1 .Data cleaning
+2 . EDA(Exploratory data analysis)
+3 . Text preprocessing(Lower case, Tokenization, Removing special characters
+  , vectorization, steeming, Removing stop words and punctuation.) 
+4 . Model building
+5. evaluation
+6. Improvment
+7. website
+8. Deploy (heroku)
